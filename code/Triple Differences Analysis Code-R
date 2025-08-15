@@ -353,3 +353,10 @@ ggplot(coefs_m, aes(x = month, y = est_pp)) +
 
 # Optional save
 # ggsave("ddd_event_study_monthly_ppic_style.png", width = 8.5, height = 5.2, dpi = 300)
+
+## 📚 Cite
+
+## If you use this repository, code, or figures in your own work, please cite as follows:
+
+## > Nouri, S. (2025). *Illustrating Triple-Difference Causal Models with Synthetic Data*. GitHub repository. Retrieved from https://github.com/yourusername/your-repo-name. DOI: 10.5281/zenodo.16879887
+
