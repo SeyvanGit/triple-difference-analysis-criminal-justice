@@ -3,7 +3,7 @@
 **Purpose:** How to implement and interpret a **triple-difference (DDD)** event study in R using a policy case: California’s emergency **zero-bail** orders during COVID-19.  
 **Data:** fully **synthetic** (safe to share), structured to mirror the approach in PPIC’s report *What Happened When California Suspended Bail during COVID?* I generated data in R to replicate the PPIC analyses. 
 
-> ⚠️ This repository is **instructional**. Effect sizes reflect synthetic data and will differ from estimates using confidential California DOJ ACHS data.
+> ⚠️ This repository is **instructional**. Effect sizes reflect synthetic data and will differ from estimates using California DOJ data.
 
 ## 📚 Cite
 
@@ -43,8 +43,7 @@ This repo shows how to evaluate such a policy with a **DDD event study** in R:
 
 ## What is a Triple-Difference (DDD)?
 
-A **Difference-in-Differences (DID)** model compares outcomes **before vs after** a policy change for **treated** and **control** groups.  
-However, DID can still be biased if **other factors** change differently across groups during the same period (e.g., unrelated local events, economic shocks, or broad societal changes).
+A **Difference-in-Differences (DID)** model compares outcomes **before vs after** a policy change for **treated** and **control** groups. However, DID can still be biased if **other factors** change differently across groups during the same period (e.g., unrelated local events, economic shocks, or broad societal changes).
 
 A **Triple-Difference (DDD)** model adds a **third layer of differencing**, which allows us to control for those extra confounding changes by introducing an **additional comparison dimension** inside both the treated and control groups.
 
