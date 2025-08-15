@@ -1,7 +1,7 @@
 # Triple-Difference (DDD) Event Study — California’s Emergency Zero-Bail Orders (Educational Guide)
 
 **Purpose:** How to implement and interpret a **triple-difference (DDD)** event study in R using a policy case: California’s emergency **zero-bail** orders during COVID-19.  
-**Data:** fully **synthetic** (safe to share), structured to mirror the approach in PPIC’s report *What Happened When California Suspended Bail during COVID?*
+**Data:** fully **synthetic** (safe to share), structured to mirror the approach in PPIC’s report *What Happened When California Suspended Bail during COVID?* I generated data in R to replicate the PPIC analyses. 
 
 > ⚠️ This repository is **instructional**. Effect sizes reflect synthetic data and will differ from estimates using confidential California DOJ ACHS data.
 
