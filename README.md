@@ -293,6 +293,8 @@ Below are the estimated monthly effects (**percentage point changes in rearrest 
 
 ### 🖼 Event Study Plot-Weekly  
 
+![Weekly DDD Event Study](figures/DDD%20Event%20Study-Weekly.jpeg)
+
 ---
 
 ### 🔍 Interpretation (Synthetic Data)
