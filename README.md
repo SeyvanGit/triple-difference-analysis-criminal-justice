@@ -9,7 +9,7 @@
 
 If you use this repository, code, or figures in your own work, please cite as follows:
 
-> Nouri, S. (2025). *Illustrating Triple-Difference Causal Models with Synthetic Data*. GitHub repository. Retrieved from https://github.com/yourusername/your-repo-name. DOI: 10.5281/zenodo.16879887
+> Nouri, S. (2025). *Illustrating Triple-Difference Causal Models with Synthetic Data*. GitHub repository. Retrieved from https://github.com/SeyvanGit/triple-difference-analysis-criminal-justice. DOI: 10.5281/zenodo.16879887
 ---
 
 ## Table of Contents
